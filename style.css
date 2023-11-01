@@ -1,0 +1,10 @@
+#przycisk {
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    background-color: brown;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    font-family: arial;
+    font-size: 20px;
+}
