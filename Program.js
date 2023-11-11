@@ -12,12 +12,7 @@ function dodaj()
 }
 }
 
-function un1()
+function test()
 {
-    document.getElementById("unlocked").innerHTML = "Gratulacje!"
-}
-
-function un1k()
-{
-    document.getElementById("unlocked").innerHTML = ""
+    alert("Test")
 }
